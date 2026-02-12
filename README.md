@@ -1,16 +1,17 @@
 # home
-http://192.168.0.37:8123 HomeAss
-    "https://chix6.duckdns.org/" HomeAssHttps
-       "http://192.168.0.33:8123" HomeAss2
-       "https://chix6.duckdns.org:444" HomeAss2Https
-        "http://192.168.0.113:8096" Jellyfin
-        "http://192.168.0.113:32400" Plex
-           "http://192.168.0.24:8006" Proxmox
-            "https://192.168.0.18:9443" Portainer
-            "http://192.168.0.1" Router
-            "https://duckdns.org" DuckDns
-           "https://github.com/chixdotm" GitHub
-           "https://raw.githack.com/chixdotm/home/main/index.html" This.Github
-       "https://raw.githack.com/chixdotm/home/refresh/index.html" This.R.Github
-
- <a href="https://raw.githack.com/chixdotm/home/refresh/index.html">This.R.Github</a>
+<a href="http://192.168.0.37:8123">HomeAss</a>
+<a href="https://chix6.duckdns.org/">HomeAssHttps</a>
+<a href="http://192.168.0.33:8123">HomeAss2</a>
+<a href="https://chix6.duckdns.org:444">HomeAss2Https</a>
+<a href="http://192.168.0.113:8096">Jellyfin</a>
+<a href="http://192.168.0.113:32400">Plex</a>
+<a href="http://192.168.0.24:8006">Proxmox</a>
+<a href="https://192.168.0.18:9443">Portainer</a>
+<a href="http://192.168.0.1">Router</a>
+<a href="https://duckdns.org">DuckDns</a>
+<a href="https://github.com/chixdotm">GitHub</a>
+<a href="https://raw.githack.com/chixdotm/home/main/index.html">This.Github</a>
+<a href="https://raw.githack.com/chixdotm/home/refresh/index.html">This.R.Github</a>
+<a href="#social">antiSocial</a>
+<a href="#social">antiSocial</a>
+<a href="#social">antiSocial</a>
