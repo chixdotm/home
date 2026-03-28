@@ -4,6 +4,7 @@
 <a href="http://192.168.0.33:8123">HomeAss2<br></a>
 <a href="https://chix6.duckdns.org:444">HomeAss2Https<br></a>
 <a href="http://192.168.0.113:8096">Jellyfin<br></a>
+<a href="http://188.36.2.11:8096">JellyFin</a>
 <a href="http://192.168.0.113:32400">Plex<br></a>
 <a href="http://192.168.0.24:8006">Proxmox<br></a>
 <a href="https://192.168.0.18:9443">Portainer<br></a>
